@@ -97,7 +97,7 @@
     
 - PRScsx requires Python packages **scipy** (https://www.scipy.org/) and **h5py** (https://www.h5py.org/) installed. 
 
->[!NOTE] Python and package versions
+> [!IMPORTANT] Python and package versions
 > Please make sure to use Python 3.10 (or 3.11 should work as well) with following versions of the packages.
 > With `scipy > 1.12`, MCMC step will hang 
 
